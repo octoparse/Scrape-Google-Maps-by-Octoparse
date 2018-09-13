@@ -54,10 +54,14 @@ Octoparse will automatically select all similar elements (blocks of restaurant i
 4. Extract data - to select the data to extract
 * Customize fields and delete useless fields.
 * Click "OK" to save.
-
 We will select name of restaurants, rating, category, location, description, and hours to remain in fields.
 
+![GoogleMaps_gif_4](https://github.com/octoparse/Scrape-Google-Maps-by-Octoparse/blob/master/GoogleMaps_gif_4.gif?raw=true)
+
 * Edit the field name (e.g. name and rating)
+
+
+![GoogleMaps_gif_5](https://github.com/octoparse/Scrape-Google-Maps-by-Octoparse/blob/master/GoogleMaps_gif_5.gif?raw=true)
 
 
 5. Start extraction - to run your task and get data
