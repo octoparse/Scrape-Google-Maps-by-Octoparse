@@ -27,6 +27,7 @@ We strongly suggest turn on "Workflow" mode to get a better review of what you a
 * Click "Settings" and change your browser to "Firefox 45.0" and click "Save".
 * Change your "Page URL" in "Go To Web Page" step in workflow to the [URL](https://https://www.google.com/maps/search/restaurants/@33.7726566,-117.8522727,13z/data=!3m1!4b1) (https://www.google.com/maps/search/restaurants/@33.7726566,-117.8522727,13z/data=!3m1!4b1) or any other website containing location information you want in Google Maps.
 
+![GoogleMaps_gif_1](https://raw.githubusercontent.com/octoparse/Scrape-Google-Maps-by-Octoparse/master/GoogleMaps_gif_1.gif)
 
 2. Create a pagination loop - to scrape all items from multiple pages
 
