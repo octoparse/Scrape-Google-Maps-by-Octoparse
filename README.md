@@ -29,7 +29,7 @@ We strongly suggest turn on "Workflow" mode to get a better review of what you a
 
 ![GoogleMaps_gif_1](https://raw.githubusercontent.com/octoparse/Scrape-Google-Maps-by-Octoparse/master/GoogleMaps_gif_1.gif)
 
----
+<br><br>
 
 ## Create a pagination loop - to scrape all items from multiple pages
 
@@ -45,7 +45,7 @@ We strongly suggest turn on "Workflow" mode to get a better review of what you a
 | :------ |
 | If you want to learn more about AJAX, check this [AJAX Tutorial](https://www.octoparse.com/tutorial-7/ajax) out! |
 
----
+<br><br>
 
 ## Build a loop item - to scrape all the items on current page
 
@@ -55,7 +55,7 @@ Octoparse will automatically select all similar elements (blocks of restaurant i
 
 ![GoogleMaps_gif_3](https://github.com/octoparse/Scrape-Google-Maps-by-Octoparse/blob/master/GoogleMaps_gif_3.gif?raw=true)
 
----
+<br><br>
 
 ## Extract data - to select the data to extract
 * Customize fields and delete useless fields.
@@ -68,7 +68,7 @@ We will select name of restaurants, rating, category, location, description, and
 
 ![GoogleMaps_gif_5](https://github.com/octoparse/Scrape-Google-Maps-by-Octoparse/blob/master/GoogleMaps_gif_5.gif?raw=true)
 
----
+<br><br>
 
 ## Start extraction - to run your task and get data
 
