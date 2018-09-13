@@ -8,7 +8,7 @@ To be specific, we enter "Orange CA" on [Google Maps website](https://www.google
 
 ## Catalog
 
-1. Go to web page
+1. [Go to web page](#go-to-web-page---to-open-the-target-web-page)
 2. Create a pagination loop
 3. Build a loop item
 4. Extract data
