@@ -65,6 +65,8 @@ We will select name of restaurants, rating, category, location, description, and
 * Click "Save" to save your task.
 * Click "Start Extraction" and "Local Extraction" to start local extraction task. 
 
+![GoogleMaps_gif_6](https://github.com/octoparse/Scrape-Google-Maps-by-Octoparse/blob/master/GoogleMaps_gif_6.gif?raw=true)
+
 * Click "Export" button to export data after extraction. 
 
 After the executing above steps, details of restaurants information on Google Maps will be collected automatically by Octoparse. Feel free to let us know if you have any question or need our assistance. Contact us [here](https://www.octoparse.com/contact)!
