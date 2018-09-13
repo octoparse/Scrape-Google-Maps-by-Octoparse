@@ -1,4 +1,4 @@
-# Scrape Google Maps by Google Maps
+# Scrape Google Maps by Octoparse
 
 In this tutorial, we are going to show you how to scrape Google Maps. We will take scraping restaurants in Orange County as an example in this tutorial, and details such as name, rating, location, and hours etc. can be easily collected by creating a scraping task in Octoparse. By collecting product data, you can update your data feeds on a regular basis to monitor any changes in a certain area or just keep an eye on your competitors nearby.
 
