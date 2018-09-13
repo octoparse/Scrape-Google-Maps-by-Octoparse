@@ -4,16 +4,6 @@ In this tutorial, we are going to show you how to scrape Google Maps. We will ta
 
 To be specific, we enter "Orange CA" on [Google Maps website](https://www.google.com/maps) and enter "restaurants" and copy the [URL](https://www.google.com/maps/search/restaurants/@33.7726566,-117.8522727,13z/data=!3m1!4b1) (https://www.google.com/maps/search/restaurants/@33.7726566,-117.8522727,13z/data=!3m1!4b1) for scraping.
 
-1. Go to web page - to open the target web page
-
-2. Create a pagination loop - to scrape all items from multiple pages
-
-3. Build a loop item - to scrape all the items on current page
-
-4. Extract data - to select the data to extract
-
-5. Start extraction - to run your task and get data
-
 ---
 
 1. Go to web page - to open the target web page
@@ -29,6 +19,8 @@ We strongly suggest turn on "Workflow" mode to get a better review of what you a
 
 ![GoogleMaps_gif_1](https://raw.githubusercontent.com/octoparse/Scrape-Google-Maps-by-Octoparse/master/GoogleMaps_gif_1.gif)
 
+---
+
 2. Create a pagination loop - to scrape all items from multiple pages
 
 * Click on `>` button (which means next) for pagination.
@@ -43,6 +35,8 @@ We strongly suggest turn on "Workflow" mode to get a better review of what you a
 | :------ |
 | If you want to learn more about AJAX, check this [AJAX Tutorial](https://www.octoparse.com/tutorial-7/ajax) out! |
 
+---
+
 3. Build a loop item - to scrape all the items on current page
 
 * Select the first and the second block of restaurant information in the current page.
@@ -50,6 +44,8 @@ We strongly suggest turn on "Workflow" mode to get a better review of what you a
 Octoparse will automatically select all similar elements (blocks of restaurant information) and extract data on current page.
 
 ![GoogleMaps_gif_3](https://github.com/octoparse/Scrape-Google-Maps-by-Octoparse/blob/master/GoogleMaps_gif_3.gif?raw=true)
+
+---
 
 4. Extract data - to select the data to extract
 * Customize fields and delete useless fields.
@@ -60,9 +56,9 @@ We will select name of restaurants, rating, category, location, description, and
 
 * Edit the field name (e.g. name and rating)
 
-
 ![GoogleMaps_gif_5](https://github.com/octoparse/Scrape-Google-Maps-by-Octoparse/blob/master/GoogleMaps_gif_5.gif?raw=true)
 
+---
 
 5. Start extraction - to run your task and get data
 
