@@ -6,7 +6,15 @@ To be specific, we enter "Orange CA" on [Google Maps website](https://www.google
 
 ---
 
-1. Go to web page - to open the target web page
+## Catalog
+
+1. Go to web page
+2. Create a pagination loop
+3. Build a loop item
+
+---
+
+## 1. Go to web page - to open the target web page
 In this tutorial, the first step is a little different. We should set "Browser" in "Settings" in order to open Google Maps correctly in Octoparse since default browser cannot open Google Maps correctly.
 
 * Create a task with "Advanced Mode" in "Home" page.
@@ -21,7 +29,7 @@ We strongly suggest turn on "Workflow" mode to get a better review of what you a
 
 ---
 
-2. Create a pagination loop - to scrape all items from multiple pages
+### 2. Create a pagination loop - to scrape all items from multiple pages
 
 * Click on `>` button (which means next) for pagination.
 * Click "Loop click Single Button" in "Action Tips" panel.
@@ -37,7 +45,7 @@ We strongly suggest turn on "Workflow" mode to get a better review of what you a
 
 ---
 
-3. Build a loop item - to scrape all the items on current page
+### 3. Build a loop item - to scrape all the items on current page
 
 * Select the first and the second block of restaurant information in the current page.
 * Click "Extract data in the loop" in "Action Tips" panel.
@@ -47,7 +55,7 @@ Octoparse will automatically select all similar elements (blocks of restaurant i
 
 ---
 
-4. Extract data - to select the data to extract
+### 4. Extract data - to select the data to extract
 * Customize fields and delete useless fields.
 * Click "OK" to save.
 We will select name of restaurants, rating, category, location, description, and hours to remain in fields.
@@ -60,7 +68,7 @@ We will select name of restaurants, rating, category, location, description, and
 
 ---
 
-5. Start extraction - to run your task and get data
+### 5. Start extraction - to run your task and get data
 
 * Click "Save" to save your task.
 * Click "Start Extraction" and "Local Extraction" to start local extraction task. 
