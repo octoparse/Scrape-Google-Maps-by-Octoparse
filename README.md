@@ -37,7 +37,7 @@ We strongly suggest turn on "Workflow" mode to get a better review of what you a
 * Check the box for "AJAX Load" box and set "AJAX Timeout" as 15 seconds.
 * Click "OK" to save.
 
-
+![GoogleMaps_gif_2](https://github.com/octoparse/Scrape-Google-Maps-by-Octoparse/blob/master/GoogleMaps_gif_2.gif?raw=true)
 
 | Tips: |
 | :------ |
@@ -49,7 +49,7 @@ We strongly suggest turn on "Workflow" mode to get a better review of what you a
 * Click "Extract data in the loop" in "Action Tips" panel.
 Octoparse will automatically select all similar elements (blocks of restaurant information) and extract data on current page.
 
-
+![GoogleMaps_gif_3](https://github.com/octoparse/Scrape-Google-Maps-by-Octoparse/blob/master/GoogleMaps_gif_3.gif?raw=true)
 
 4. Extract data - to select the data to extract
 * Customize fields and delete useless fields.
