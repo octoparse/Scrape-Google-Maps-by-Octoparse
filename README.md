@@ -1,5 +1,7 @@
 # Scrape Google Maps by Octoparse
 
+Just download the `GoogleMaps.otd` file provided, and import it into Octoparse - a free automatic web scraping tool. You can get Google Maps data including the name of restaurants, rating, category, location, description, and hours. The following tutorial shows detailed steps of creating this task.
+
 In this tutorial, we are going to show you how to scrape Google Maps. We will take scraping restaurants in Orange County as an example in this tutorial, and details such as name, rating, location, and hours etc. can be easily collected by creating a scraping task in Octoparse. By collecting product data, you can update your data feeds on a regular basis to monitor any changes in a certain area or just keep an eye on your competitors nearby.
 
 To be specific, we enter "Orange CA" on [Google Maps website](https://www.google.com/maps) and enter "restaurants" and copy the [URL](https://www.google.com/maps/search/restaurants/@33.7726566,-117.8522727,13z/data=!3m1!4b1) (https://www.google.com/maps/search/restaurants/@33.7726566,-117.8522727,13z/data=!3m1!4b1) for scraping.
