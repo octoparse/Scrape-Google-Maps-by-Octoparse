@@ -2,6 +2,8 @@
 
 Just download the `GoogleMaps_Copy.otd` file provided, and import it into [Octoparse](https://www.octoparse.com) - a free automatic web scraping tool. You can get Google Maps data including the name of restaurants, rating, category, location, description, and hours. The following tutorial shows detailed steps of creating this task.
 
+See more [here](https://www.octoparse.com/tutorial-7/scrape-data-in-google-maps)
+
 To be specific, we enter "Orange CA" on [Google Maps website](https://www.google.com/maps) and enter "restaurants" and copy the [URL](https://www.google.com/maps/search/restaurants/@33.7726566,-117.8522727,13z/data=!3m1!4b1) (https://www.google.com/maps/search/restaurants/@33.7726566,-117.8522727,13z/data=!3m1!4b1) for scraping.
 
 ---
